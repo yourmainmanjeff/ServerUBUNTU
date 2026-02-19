@@ -1,0 +1,3 @@
+to set up your own wazuh server, follow these instructions for docker: 
+
+https://documentation.wazuh.com/current/deployment-options/docker/wazuh-container.html
